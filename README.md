@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @LucaHofstetter
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning react/typescript
+- 👀 I’m interested in learning and applying new web technologies!
+- 🌱 I’m currently learning react/typescript & webGl/three.js
